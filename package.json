@@ -1,0 +1,9 @@
+{
+  "name": "managment_system",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "express": "4.10.2",
+    "express": "~4.12.3"
+  }
+}
